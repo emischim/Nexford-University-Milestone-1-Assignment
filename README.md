@@ -15,6 +15,6 @@ This is a policy management system for an insurance company. The system manages 
 - `emmanuel_main_script.ipynb`: Demonstrates the use of the above classes.
 
 ## How to Run
-1. Ensure all the files (`emmanuel_policyholder.py`, `emmanuel_product.py`, `emmanuel_payment.py`, `emmanuel_main.ipynb`) are in the same directory.
+1. Ensure all the files (`emmanuel_policyholder.py`, `emmanuel_product.py`, `emmanuel_payment.py`, `emmanuel_main_script.ipynb`) are in the same directory.
 2. Using google colab, you can do this by uploading `emmanuel_main.ipynb`, connect to a python runtime, then upload `emmanuel_policyholder.py`, `emmanuel_product.py`, `emmanuel_payment.py` to the files section
 3. Run `emmanuel_main.ipynb`.
