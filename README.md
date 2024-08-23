@@ -9,9 +9,9 @@ This is a policy management system for an insurance company. The system manages 
 - **Payment:** Handles payment processing, reminders, and penalties.
 
 ## Files
-- `emmanuel_policyholder.py`: Contains the `Policyholder` class.
-- `emmanuel_product.py`: Contains the `Product` class.
-- `emmanuel_payment.py`: Contains the `Payment` class.
+- `emmanuel_policyholder.py`: Contains the `My_Policyholder_Class`.
+- `emmanuel_product.py`: Contains the `My_Product_Class`.
+- `emmanuel_payment.py`: Contains the `My_Payment_Class`.
 - `emmanuel_main.ipynb`: Demonstrates the use of the above classes.
 
 ## How to Run
