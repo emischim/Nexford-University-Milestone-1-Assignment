@@ -4,9 +4,9 @@
 This is a policy management system for an insurance company. The system manages policyholders, products, and payments.
 
 ## Classes
-- **Policyholder:** Manages policyholder registration, suspension, and product association / assignment.
-- **Product:** Manages product creation, updates, and suspension.
-- **Payment:** Handles payment processing, reminders, and penalties.
+- **My_Policyholder_Class:** Manages policyholder registration, suspension, and product association / assignment.
+- **My_Product_Class:** Manages product creation, updates, and suspension.
+- **My_Payment_Class:** Handles payment processing, reminders, and penalties.
 
 ## Files
 - `emmanuel_policyholder.py`: Contains the `My_Policyholder_Class`.
